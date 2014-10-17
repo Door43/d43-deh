@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[deh:home|Door43 (deh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-deh|d43-deh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-deh/archive/master.zip|d43-deh.zip]]
+
+**Recent Changes**
+{{changes>ns = deh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/deh|Ethnologue data]]
+
